@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99ce9b8d-76ee-4652-be31-b5cc6cee5a27": {
+      "ProjectGuid": "99ce9b8d-76ee-4652-be31-b5cc6cee5a27",
+      "DisplayName": "UI_Bank",
+      "ColorIndex": 0
+    },
+    "b889bf31-61f8-4e1e-8c78-3a02f7de0d23": {
+      "ProjectGuid": "b889bf31-61f8-4e1e-8c78-3a02f7de0d23",
+      "DisplayName": "App_B_Csh",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
